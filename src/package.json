@@ -1,0 +1,11 @@
+{
+  "name": "mongoose-strings",
+  "version": "0.0.1",
+  "description": "mongoose strings provides a few very simple string functions for testing and manipulating strings in a mongoose context",
+  "main": "lib/mongoose-strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crispen.smith@gmail.com",
+  "license": "ISC"
+}
